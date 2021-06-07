@@ -9,7 +9,7 @@
 	<license>MIT</license>
 
 	<dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device.git" />
-	<dependency id="cordova-plugin-ios-base64" url="https://github.com/DatabaseWorks/cordova-plugin-ios-base64.git" />
+	<dependency id="cordova-plugin-ios-base64" url="https://github.com/garaboncias/cordova-plugin-ios-base64.git" />
 	<dependency id="cordova-plugin-file" url="https://github.com/apache/cordova-plugin-file" />
 
 	<js-module src="www/PrintPDF.js" name="PrintPDF">
